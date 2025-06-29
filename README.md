@@ -1,17 +1,34 @@
-# .
+# URL Shortener
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [URL shortening API landing page challenge on Frontend Mentor](https://www.codementor.io/projects/web/link-shortener-website-brqjanf6zq). 
 
-## Recommended IDE Setup
+## Overview
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### The Challenge
 
-## Customize configuration
+Users should be able to:
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- View the optimal layout for the site depending on their device's screen size
+- Shorten any valid URL
+- Copy the shortened link to their clipboard in a single click
+- Receive an error message when the `form` is submitted if:
+  - The `input` field is empty or the URL is invalid.
+
+
+## My Process
+
+### Built with
+
+- HTML5
+- Flexbox & CSS Grid
+- Mobile-first workflow
+- API [bitly](https://dev.bitly.com/api-reference)
+- Vue 3
+- Vite
 
 ## Project Setup
 
+### Install Dependencies
 ```sh
 npm install
 ```
