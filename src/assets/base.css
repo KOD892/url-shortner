@@ -1,0 +1,21 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+--color-primary: #66B2B2;      /* Soft Teal */
+--color-secondary: #9CD7DF;   /* Muted Sky */
+--color-background: #F8F8F8;  /* Pale Mist */
+--color-surface: #FFFFFF;     /* Clean Linen */
+--color-text-primary: #333333;/* Deep Charcoal */
+--color-text-secondary: #7F8C8D; /* Cool Gray */
+--color-success: #A8DADC;     /* Gentle Mint */
+--color-error:#e08181;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-background);
+  font-family: 'Poppins', sans-serif;
+  color: var(--color-text-primary);
+  font-size: 15px;
+}
+
