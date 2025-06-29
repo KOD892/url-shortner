@@ -1,6 +1,6 @@
 # URL Shortener
 
-This is a solution to the [URL shortening API landing page challenge on Frontend Mentor](https://www.codementor.io/projects/web/link-shortener-website-brqjanf6zq). 
+This is a solution to the [codeMentor url shortener project](https://www.codementor.io/projects/web/link-shortener-website-brqjanf6zq). 
 
 ## Overview
 
